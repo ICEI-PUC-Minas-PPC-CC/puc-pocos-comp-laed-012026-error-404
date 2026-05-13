@@ -1,0 +1,21 @@
+title: "Conserto de eletrônicos"
+authors:
+  - family-names: Nogueira
+    given-names: Wesley
+  - family-names: Piva
+    given-names: Mariana
+  - family-names: Carvalho
+    given-names: Camilly
+  - family-names: Carvalho
+    given-names: Gabriel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pontes
+    given-names: Diego
+ 
+keywords:
+  - 
+  - 
+repository-code: 
+version: 1.0.0
+date-released: 2026-05-12
